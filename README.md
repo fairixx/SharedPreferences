@@ -1,6 +1,21 @@
-# task
+# Task of Local Storage with SharedPreferences  
 
-A new Flutter project.
+<table>
+    <tbody>
+        <tr>
+			<th>Local Storage With SharedPreferences</th>	
+		</tr>
+        <tr>
+			<td>
+				<img width="308" alt="local Storage img1" src="https://github.com/user-attachments/assets/b8d3e495-bdc2-482b-bc20-453f201a8057">
+			</td>
+    </tbody>
+</table>
+
+##Let's clone this Repository 
+```bash
+git clone https://github.com/fairixx/SharedPreferences
+```
 
 ## Getting Started
 
